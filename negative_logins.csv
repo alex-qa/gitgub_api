@@ -1,0 +1,10 @@
+login	password
+'alex.qa.engineer@gmail.com'	'Password2017$@ '
+'alex.qa.engineer@gmail.com'	' Password2017$@'
+'<alex.qa.engineer@gmail.com>'	'Password2017$@'
+'alex.qa.engineer.gmail.com'	'Password2017$@'
+'alex.qa.engineer@gmail.com'	'password2017$@'
+'alex.qa.engineer@gmail.com'	''
+''	'Password2017$@'
+'alex.qaengineer@gmail.com'	'Password2017$@'
+'Password2017$@'	'alex.qa.engineer@gmail.com'
